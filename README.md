@@ -133,6 +133,11 @@ The API implements comprehensive error handling:
 - Database error handling
 - Duplicate entry prevention
 
+
+## 🌐 Live Demo
+**Deployed API URL:** [https://school-management-1-40yb.onrender.com](https://school-management-1-40yb.onrender.com)
+
+
 ## 📝 Notes
 - Distances are calculated using the Haversine formula, which accounts for the Earth's curvature
 - Coordinates are validated to ensure they fall within valid ranges for latitude (-90 to 90) and longitude (-180 to 180)
